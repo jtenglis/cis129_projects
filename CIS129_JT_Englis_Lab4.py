@@ -1,5 +1,5 @@
 # Module 4 Lab-4
-# JT Englis
+# Author: JT Englis
 # Date: 2024-10-01
 # This program calculates store and employee bonuses based on sales performance.
 
