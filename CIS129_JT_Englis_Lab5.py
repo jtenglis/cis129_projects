@@ -1,8 +1,7 @@
 # Lab 5 The Bottle Return Program
 # Author: JT Englis
 # Date: 2024-10-15
-# This program tracks the total number of bottles collected over seven days
-# and calculates the total payout based on the bottles returned.
+# This program tracks the total number of bottles collected over seven days and calculates the total payout based on the bottles returned.
 
 def main():
     # Step 1: Declare variables
