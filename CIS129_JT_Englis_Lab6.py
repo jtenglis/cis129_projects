@@ -1,7 +1,6 @@
 # Hotdog Cookout Calculator
 # Author: JT Englis
-# Date: October 16, 2024
-#
+# Date: 2024-10-16
 # This program calculates the number of hot dog and bun packages needed for a cookout, and the leftovers, based on the number of people and hot dogs per person.
 
 # Function to get the total number of hot dogs needed
