@@ -1,8 +1,9 @@
-# Author: JT
-# Project Title: Plant Care Reminder Program
-# Course: [Your Course Name Here]
-# Date: December 16, 2024
-# Description: A simple Python program that helps users track and care for their houseplants by sending reminders for watering, fertilizing, and other essential tasks. The program allows users to add, update, delete, and generate reports for their plant care, while promoting a positive and enjoyable plant-care experience.
+# Author Name: JT Englis
+# Title: Plant Care Reminder Program
+# Course & CRN: CIS129-12432
+# Date: December 18, 2024
+# Description: A Python program that helps users track and care for their houseplants by sending reminders for watering, fertilizing, and other essential tasks. 
+# The program allows users to add, update, delete, and generate reports for their plant care, while promoting a positive and enjoyable plant-care experience.
 
 import datetime
 import json
